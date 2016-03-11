@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\StudioWorkplace\\MyApplication\\myAirMouseClient1\\build\\intermediates\\res\\merged\\debug\\menu\\sensor_control.xml",
+        "source": "E:\\StudioWorkplace\\MyApplication\\myAirMouseClient1\\src\\main\\res\\menu\\sensor_control.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkplace\\MyApplication\\myAirMouseClient1\\build\\intermediates\\res\\merged\\debug\\menu\\control.xml",
+        "source": "E:\\StudioWorkplace\\MyApplication\\myAirMouseClient1\\src\\main\\res\\menu\\control.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkplace\\MyApplication\\myAirMouseClient1\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "E:\\StudioWorkplace\\MyApplication\\myAirMouseClient1\\src\\main\\res\\menu\\login.xml"
+    }
+]
