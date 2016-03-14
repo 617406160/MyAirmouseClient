@@ -4,26 +4,26 @@
     api-level="19"
     density="xxhdpi"
     format="6"
-    timestamp="19498908709362" >
+    timestamp="271037829784951" >
 
     <task
         name="javac"
-        duration="1564" />
+        duration="2509" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="250" />
+        duration="122" />
     <task
         name="verifier"
-        duration="61" />
+        duration="143" />
 
     <artifact
         location="E:\StudioWorkplace\MyApplication\myAirMouseClient1\build\outputs\apk\myAirMouseClient1-debug.apk"
         type="MAIN" />
 
-    <build timestamp="19498908709362" >
+    <build timestamp="271037829784951" >
         <artifact
             location="E:\StudioWorkplace\MyApplication\myAirMouseClient1\build\outputs\apk\myAirMouseClient1-debug.apk"
             type="MAIN" />

@@ -1,0 +1,7 @@
+CHANGED,E:\StudioWorkplace\MyApplication\myAirMouseClient1\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\myairmouseclient1\SensorControlActivity$1$override.class
+CHANGED,E:\StudioWorkplace\MyApplication\myAirMouseClient1\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\myairmouseclient1\SensorControlActivity$2$override.class
+CHANGED,E:\StudioWorkplace\MyApplication\myAirMouseClient1\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\myairmouseclient1\SensorControlActivity$override.class
+CHANGED,E:\StudioWorkplace\MyApplication\myAirMouseClient1\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\myairmouseclient1\SensorControlActivity$5$override.class
+CHANGED,E:\StudioWorkplace\MyApplication\myAirMouseClient1\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\myairmouseclient1\SensorControlActivity$4$override.class
+CHANGED,E:\StudioWorkplace\MyApplication\myAirMouseClient1\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\myairmouseclient1\SensorControlActivity$3$override.class
+CHANGED,E:\StudioWorkplace\MyApplication\myAirMouseClient1\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

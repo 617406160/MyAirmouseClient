@@ -48,6 +48,7 @@ public class SensorControlActivity extends Activity {
 	private float fingery;
 	private float current_x;
 	private float current_y;
+	static int flage = 0;
 
 	@SuppressWarnings("deprecation")
 	@Override
@@ -80,8 +81,13 @@ public class SensorControlActivity extends Activity {
 				delta_y = deltaangle_y* r;
 				currentangle_x = newangle_x;
 				currentangle_y = newangle_y;
-				String message = "mouse:" + delta_x + "," + delta_y;
-				sender.send(message);
+
+				if (flage !=  0){
+					String message = "mouse:" + delta_x + "," + delta_y;
+					sender.send(message);
+				}
+				flage = 1;
+
 				
 				
 				try {
@@ -143,6 +149,7 @@ public class SensorControlActivity extends Activity {
 	protected void onPause() {
 		manager.unregisterListener((SensorListener) this);
 		super.onPause();
+		flage = 0;
 	}
 	private void initmiddlebutton() {
 		Button btn_middle = (Button) findViewById(R.id.btn_middle);
